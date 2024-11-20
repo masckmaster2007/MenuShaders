@@ -2,9 +2,9 @@
     "geode": "4.0.1",
     "version": "v1.4.1",
     "gd": {
-        "win": "2.207",
-        "mac": "2.207",
-        "android": "2.207"
+        "win": "2.2074",
+        "mac": "2.2074",
+        "android": "2.2074"
     },
     "id": "cgytrus.menu-shaders",
     "name": "Menu Shaders (2.207)",
