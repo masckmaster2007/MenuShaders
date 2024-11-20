@@ -1,13 +1,13 @@
 {
-    "geode": "3.7.2",
+    "geode": "4.0.0",
     "version": "v1.4.1",
     "gd": {
-        "win": "2.206",
-        "mac": "2.206",
-        "android": "2.206"
+        "win": "2.207",
+        "mac": "2.207",
+        "android": "2.207"
     },
     "id": "cgytrus.menu-shaders",
-    "name": "Menu Shaders",
+    "name": "Menu Shaders (2.207)",
     "developers": [ "mat", "ConfiG", "rooot" ],
     "description": "Replaces the background of the main menu with a customizable shader.",
     "repository": "https://github.com/cgytrus/MenuShaders",
