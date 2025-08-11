@@ -7,7 +7,7 @@
         "android": "2.2074",
         "ios": "2.2074"
     },
-    "id": "cgytrus.menu-shaders",
+    "id": "cgytrus.menu-shaders-mod",
     "name": "Menu Shaders",
     "developers": [ "mat", "ConfiG", "rooot" ],
     "description": "Replaces the background of the main menu with a customizable shader.",
